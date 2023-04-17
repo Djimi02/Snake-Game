@@ -3,3 +3,11 @@ The Snake is a classic arcade-style video game. The player controls a snake, usi
 
 * Programming language: Java
 * IDE: Visual Studio Code
+
+<img src="https://github.com/Djimi02/Snake-Game/blob/main/photos/SnakeGame.png"  width=40% height=40%>
+
+<img src="https://github.com/Djimi02/Snake-Game/blob/main/photos/GameOver.png"  width=40% height=40%>
+
+<img src="https://github.com/Djimi02/Snake-Game/blob/main/photos/Controlls.png"  width=40% height=40%>
+
+<img src="https://github.com/Djimi02/Snake-Game/blob/main/photos/Edit.png"  width=40% height=40%>
